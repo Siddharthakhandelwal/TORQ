@@ -1,0 +1,8 @@
+streamlit
+pandas
+pysqlite3-binary
+mysql-connector
+matplotlib
+google-generativeai
+streamlit-option-menu
+python-dotenv
